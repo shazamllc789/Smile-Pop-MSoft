@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Method Draw Vector Editor",
+  "description": "The goal is to crushes all the smiles.. except the red one! You can reach that, so simple with click on the smiles",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Method Draw Vector Editor",
+  "name": "Smile Pop",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Method Draw Vector Editor",
+  "short_name": "Smile Pop",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Method Draw Vector Editor",
+      "name": "Smile Pop",
       "url": "",
-      "description": ""
+      "description": "The goal is to crushes all the smiles.. except the red one! You can reach that, so simple with click on the smiles"
     }
   ]
 }
